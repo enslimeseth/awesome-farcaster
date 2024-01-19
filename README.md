@@ -188,6 +188,7 @@ These bots are available on Farcaster. You can mention them in a cast to get a r
 - [SQLCaster](https://sqlcaster.xyz) - Query with SQL.
   - Open source [here](https://github.com/shrimalmadhur/trendcaster).
 - [Farcaster Insights](https://data.hubs.neynar.com/public/dashboards/U6aGGq6CQOZXIx6IO71NbaUFDMwX14nYs0OyhT88) - Network dashboard.
+- [ENS Leaderboard](https://ensleaderboard.com/) - The most followed Farcaster accounts with .eth usernames
 
 ## Contributions
 
